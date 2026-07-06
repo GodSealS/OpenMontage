@@ -1,6 +1,6 @@
 # OpenMontage - Shared Project Context
 
-This is the single source of truth for project architecture and conventions. All platform-specific agent files (CLAUDE.md, CODEX.md, CURSOR.md, COPILOT.md) should point here instead of duplicating this content.
+This is the single source of truth for project architecture and conventions. All platform-specific agent files (AGENTS.md, CLAUDE.md, CODEX.md, CURSOR.md, COPILOT.md) should point here instead of duplicating this content.
 
 ## Identity
 
@@ -39,6 +39,8 @@ Layer 3: .agents/skills/            → "How the technology works" (generic API 
 ```
 
 Each tool's `agent_skills[]` field bridges Layer 1 → Layer 3. See `skills/INDEX.md` for the full mapping.
+
+Layer 3 skills are accessible by Claude Code via `.claude/skills/` (symlink) and by CodeBuddy via `.codebuddy/skills/` (junction), both pointing to `.agents/skills/`.
 
 ## Key Patterns
 

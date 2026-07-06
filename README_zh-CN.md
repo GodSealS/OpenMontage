@@ -598,6 +598,7 @@ OpenMontage 兼容所有能够读取文件并执行 Python 的 AI 编程助手�
 
 | 平台 | 配置文件 |
 |----------|------------|
+| **CodeBuddy** | `CODEBUDDY.md` + `AGENTS.md` + `.codebuddy/` |
 | **Claude Code** | `CLAUDE.md` |
 | **Cursor** | `CURSOR.md` + `.cursor/rules/` |
 | **GitHub Copilot** | `COPILOT.md` + `.github/copilot-instructions.md` |

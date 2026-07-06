@@ -107,7 +107,7 @@ What you get back is not "best guess prompt spaghetti." You get:
 - **What it will cost** at your target duration, before asset generation starts
 - **What it will actually look like** with your currently available tools
 
-Works with **Claude Code, Cursor, Copilot, Windsurf, Codex** — any AI coding assistant that can read files and run code.
+Works with **Claude Code, CodeBuddy, Cursor, Copilot, Windsurf, Codex** — any AI coding assistant that can read files and run code.
 
 ---
 
@@ -148,7 +148,7 @@ And when a run is done, hit **▶ REPLAY RUN** — the whole production replays 
 - **Python 3.10+** — [python.org](https://www.python.org/downloads/)
 - **FFmpeg** — `brew install ffmpeg` / `sudo apt install ffmpeg` / [ffmpeg.org](https://ffmpeg.org/download.html)
 - **Node.js 18+** — [nodejs.org](https://nodejs.org/)
-- **An AI coding assistant** — Claude Code, Cursor, Copilot, Windsurf, or Codex
+- **An AI coding assistant** — Claude Code, CodeBuddy, Cursor, Copilot, Windsurf, or Codex
 
 ### Install & Run
 
@@ -635,6 +635,7 @@ OpenMontage works with any AI coding assistant that can read files and execute P
 
 | Platform | Config File |
 |----------|------------|
+| **CodeBuddy** | `CODEBUDDY.md` + `AGENTS.md` + `.codebuddy/` |
 | **Claude Code** | `CLAUDE.md` |
 | **Cursor** | `CURSOR.md` + `.cursor/rules/` |
 | **GitHub Copilot** | `COPILOT.md` + `.github/copilot-instructions.md` |

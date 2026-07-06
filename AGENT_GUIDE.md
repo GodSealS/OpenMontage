@@ -4,6 +4,21 @@ Start here. This is the complete operating guide and agent contract for OpenMont
 
 For architecture, key files, and conventions see [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
 
+## Platform Detection
+
+The agent should detect its host platform and know where skills and commands live:
+
+| Platform | Entry File | Skills Directory | Commands |
+|----------|-----------|-----------------|----------|
+| **CodeBuddy** | `CODEBUDDY.md` + `AGENTS.md` | `.codebuddy/skills/` → `.agents/skills/` | `.codebuddy/commands/` |
+| **Claude Code** | `CLAUDE.md` | `.claude/skills/` → `.agents/skills/` | `.claude/commands/` |
+| **Codex** | `CODEX.md` | — (manual deploy to `~/.codex/`) | `.codex/prompts/` |
+| **Cursor** | `CURSOR.md` | — | `.cursor/commands/` |
+| **Copilot** | `COPILOT.md` + `.github/copilot-instructions.md` | — | `.github/prompts/` |
+| **Windsurf** | `.windsurfrules` | — | — |
+
+All platforms share the same core: `AGENT_GUIDE.md` (this file) and `PROJECT_CONTEXT.md`.
+
 ## First Interaction — Onboarding
 
 When the user's first message is vague, exploratory, or asks what you can do ("make me a video", "what can you do?", "help me create something", "I want to make content"), read the onboarding skill **before** doing anything else:

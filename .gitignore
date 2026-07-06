@@ -61,6 +61,7 @@ internal/
 # Local agent config (user-specific)
 .claude/memory/
 .claude/settings.local.json
+.codebuddy/memory/
 
 # Agent skills lock (local install tracking)
 skills-lock.json
@@ -97,3 +98,6 @@ venv/
 
 # Backlot local cache (thumbnails)
 .backlot/
+
+.understand-anything/
+Idea/
