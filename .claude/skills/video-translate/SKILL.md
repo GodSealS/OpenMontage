@@ -1,7 +1,7 @@
 ---
+
 name: video-translate
-description: |
-  Translate and dub existing videos into multiple languages using HeyGen. Use when: (1) Translating a video into another language, (2) Dubbing video content with lip-sync, (3) Creating multi-language versions of existing videos, (4) Audio-only translation without lip-sync, (5) Working with HeyGen's /v2/video_translate endpoint.
+description: 使用 HeyGen 将现有视频翻译和配音成多种语言。适用场景：(1) 将视频翻译成另一种语言，(2) 为视频内容配音并同步唇形，(3) 创建现有视频的多语言版本，(4) 无需唇形同步的纯音频翻译，(5) 使用 HeyGen 的 /v2/video_translate 端点。
 allowed-tools: mcp__heygen__*
 metadata:
   openclaw:
@@ -9,6 +9,7 @@ metadata:
       env:
         - HEYGEN_API_KEY
     primaryEnv: HEYGEN_API_KEY
+
 ---
 
 # Video Translation (HeyGen)

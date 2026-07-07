@@ -1,11 +1,7 @@
 ---
+
 name: manim-composer
-description: |
-  Trigger when: (1) User wants to create an educational/explainer video, (2) User has a vague concept they want visualized, (3) User mentions "3b1b style" or "explain like 3Blue1Brown", (4) User wants to plan a Manim video or animation sequence, (5) User asks to "compose" or "plan" a math/science visualization.
-
-  Transforms vague video ideas into detailed scene-by-scene plans (scenes.md). Conducts research, asks clarifying questions about audience/scope/focus, and outputs comprehensive scene specifications ready for implementation with ManimCE or ManimGL.
-
-  Use this BEFORE writing any Manim code. This skill plans the video; use manimce-best-practices or manimgl-best-practices for implementation.
+description: 触发条件：(1) 用户想创建教育/讲解视频，(2) 用户有模糊概念想要可视化，(3) 用户提到「3b1b 风格」或「像 3Blue1Brown 那样讲解」，(4) 用户想规划 Manim 视频或动画序列，(5) 用户要求「编排」或「规划」数学/科学可视化。将模糊的视频创意转化为详细的逐场景规划（scenes.md）。进行研究、询问关于受众/范围/焦点的澄清问题，并输出全面的场景规格，可用于 ManimCE 或 ManimGL 实现。在编写任何 Manim 代码前使用此技能。本技能规划视频；实现部分请使用 manimce-best-practices 或 manimgl-best-practices。
 ---
 
 ## Workflow

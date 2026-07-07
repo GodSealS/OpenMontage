@@ -1,6 +1,8 @@
 ---
+
 name: media-use
-description: Agent Media OS — resolve any media need (BGM, SFX, image, icon) into a frozen local file + ledger record. One verb (`resolve`) handles the full cascade — project cache, global cache, HeyGen catalog search, freeze, register. Keeps search noise on disk, hands the agent a path. Use when a composition needs background music, sound effects, images, or icons.
+description: Agent Media OS — 将任何媒体需求（BGM、SFX、图片、图标）解析为冻结的本地文件 + 台账记录。一个动词（`resolve`）处理完整级联 — 项目缓存、全局缓存、HeyGen 目录搜索、冻结、注册。将搜索噪音保存在磁盘上，交给代理一个路径。适用于合成需要背景音乐、音效、图片或图标时。
+
 ---
 
 # media-use

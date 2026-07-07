@@ -1,6 +1,8 @@
 ---
+
 name: ltx2
-description: AI video generation with LTX-2.3 22B — text-to-video, image-to-video clips for video production. Use when generating video clips, animating images, creating b-roll, animated backgrounds, or motion content. Triggers include video generation, animate image, b-roll, motion, video clip, text-to-video, image-to-video.
+description: 使用 LTX-2.3 22B 进行 AI 视频生成 — 文生视频、图生视频片段。适用于生成视频片段、动画化图片、创建 B 卷素材、动画背景或动态内容。触发词包括视频生成、图片动画化、B 卷素材、动态、视频片段、文生视频、图生视频。
+
 ---
 
 # LTX-2.3 Video Generation

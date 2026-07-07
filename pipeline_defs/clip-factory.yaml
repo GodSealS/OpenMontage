@@ -1,10 +1,6 @@
 name: clip-factory
 version: "2.0"
-description: >
-  Multi-clip extraction pipeline. Takes long-form content (webinar, stream, presentation,
-  interview) and produces multiple short clips optimized for social distribution.
-  Outputs N independent deliverables from a single source. EP orchestration adds quality
-  gates for clip selection, batch consistency, and hook placement.
+description: 多片段提取管道。处理长内容（网络研讨会、直播、演示、访谈），生成多个针对社交分发优化的短视频片段。从单个源产出 N 个独立交付物。EP 编排增加了片段选择、批量一致性和钩子放置的质检关卡。
 category: custom
 stability: beta
 default_checkpoint_policy: guided

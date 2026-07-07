@@ -1,7 +1,9 @@
 ---
+
 name: character-rigging
-description: Build data-driven 2D character rigs for local animation: parts, pivots, layers, constraints, views, and reusable rig packages.
+description: 构建数据驱动的 2D 角色骨架系统用于本地动画：部件、枢轴点、图层、约束、视角和可复用的骨架包。
 license: MIT
+
 ---
 
 # Character Rigging

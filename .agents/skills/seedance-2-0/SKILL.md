@@ -1,7 +1,7 @@
 ---
+
 name: seedance-2-0
-description: |
-  Generate cinematic clips with ByteDance Seedance 2.0 — the preferred premium video model in OpenMontage when a paid gateway is configured. Use when: (1) producing trailers, teasers, hype edits, or premium cinematic clips, (2) needing native synchronized audio (speech, SFX, ambience) in a single pass, (3) needing multi-shot cuts inside one generation, (4) needing director-level camera control, (5) needing lip-sync from quoted dialogue in the prompt, (6) needing reference-conditioned generation with up to 9 images + 3 video clips + 3 audio clips, (7) wanting consistent character identity across shots. Accessible via fal.ai (`seedance_video` tool), HeyGen (Video Agent / Avatar Shots), Replicate, Runway (Enterprise, non-US), Freepik, BytePlus ModelArk, Higgsfield, Pollo, and other aggregators.
+description: 使用字节跳动 Seedance 2.0 生成电影级片段 — OpenMontage 中配置付费网关时的首选高级视频模型。适用场景：(1) 制作预告片、预告、剪辑或高级电影片段，(2) 需要原生同步音频（语音、SFX、环境音）一次生成，(3) 在一次生成中需要多镜头切分，(4) 需要导演级摄像机控制，(5) 需要从提示中的引用对话进行唇形同步，(6) 需要基于参考的条件生成，最多支持 9 张图片 + 3 个视频片段 + 3 个音频片段，(7) 希望跨镜头保持角色身份一致性。可通过 fal.ai（`seedance_video` 工具）、HeyGen（Video Agent / Avatar Shots）、Replicate、Runway（企业版，非美国）、Freepik、BytePlus ModelArk、Higgsfield、Pollo 及其他聚合商访问。
 allowed-tools: Bash, Read, Write
 metadata:
   openclaw:
@@ -10,6 +10,7 @@ metadata:
         - FAL_KEY
         - HEYGEN_API_KEY
         - REPLICATE_API_TOKEN
+
 ---
 
 # Seedance 2.0 (ByteDance)

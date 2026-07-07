@@ -1,9 +1,6 @@
 name: localization-dub
 version: "2.0"
-description: >
-  Transcript-first localization pipeline for producing translated subtitles, dubbed audio,
-  and optional lip-synced language variants from an existing source video. EP orchestration
-  adds quality gates for translation accuracy, timing preservation, and per-locale consistency.
+description: 基于转录的本地化管道，用于从现有源视频生成翻译字幕、配音音频和可选唇形同步语言变体。EP 编排增加了翻译准确性、时间保留和每个语言环境的质检关卡。
 category: custom
 stability: beta
 default_checkpoint_policy: guided

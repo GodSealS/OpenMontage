@@ -1,10 +1,6 @@
 name: avatar-spokesperson
 version: "2.0"
-description: >
-  Presenter-led avatar pipeline for spokesperson videos, internal updates, onboarding,
-  sales intros, and short scripted explainers. Best for projects where a digital presenter
-  is the anchor and support graphics stay simple. EP orchestration adds quality gates for
-  lip-sync quality, presenter framing, and CTA landing.
+description: 主持人主导的虚拟形象管道，适用于代言人视频、内部更新、入职培训、销售介绍和简短脚本讲解。最适合数字主持人为核心、辅助图形保持简洁的项目。EP 编排增加了唇形同步质量、主持人构图和 CTA 着陆的质检关卡。
 category: custom
 stability: production
 default_checkpoint_policy: guided

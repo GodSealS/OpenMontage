@@ -1,5 +1,5 @@
 ---
-description: Open the Backlot living storyboard — the browser board that shows pipeline stages, script, scene plan, and generated assets live as a production runs.
+description: 打开 Backlot 实时故事板 — 浏览器面板，实时显示管道阶段、脚本、场景计划和生成的资源。
 argument-hint: [project-id (optional — defaults to the current/most recent project)]
 ---
 

@@ -1,6 +1,8 @@
 ---
+
 name: comfyui
-description: Use when working with ComfyUI workflows in OpenMontage, including comfyui_image/comfyui_video, custom workflow_json/workflow_path inputs, output_node selection, missing model setup, LoRAs, low-VRAM workflow choices, and community workflow imports.
+description: 适用于在 OpenMontage 中使用 ComfyUI 工作流，包括 comfyui_image/comfyui_video、自定义 workflow_json/workflow_path 输入、output_node 选择、缺失模型配置、LoRAs、低显存工作流选择和社区工作流导入。
+
 ---
 
 # ComfyUI Workflows in OpenMontage

@@ -1,11 +1,7 @@
 ---
+
 name: manimgl-best-practices
-description: |
-  Trigger when: (1) User mentions "manimgl" or "ManimGL" or "3b1b manim", (2) Code contains `from manimlib import *`, (3) User runs `manimgl` CLI commands, (4) Working with InteractiveScene, self.frame, self.embed(), ShowCreation(), or ManimGL-specific patterns.
-
-  Best practices for ManimGL (Grant Sanderson's 3Blue1Brown version) - OpenGL-based animation engine with interactive development. Covers InteractiveScene, Tex with t2c, camera frame control, interactive mode (-se flag), 3D rendering, and checkpoint_paste() workflow.
-
-  NOT for Manim Community Edition (which uses `manim` imports and `manim` CLI).
+description: 触发条件：(1) 用户提到「manimgl」或「ManimGL」或「3b1b manim」，(2) 代码包含 `from manimlib import *`，(3) 用户运行 `manimgl` CLI 命令，(4) 处理 InteractiveScene、self.frame、self.embed()、ShowCreation() 或 ManimGL 特定模式。ManimGL（Grant Sanderson 的 3Blue1Brown 版本）最佳实践 — 基于 OpenGL 的动画引擎，支持交互式开发。涵盖 InteractiveScene、使用 t2c 的 Tex、相机帧控制、交互模式（-se 标志）、3D 渲染和 checkpoint_paste() 工作流。不适用于 Manim Community Edition（使用 `manim` 导入和 `manim` CLI）。
 ---
 
 ## How to use

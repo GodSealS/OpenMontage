@@ -1,6 +1,8 @@
 ---
+
 name: playwright-recording
-description: Record browser interactions as video using Playwright. Use for capturing demo videos, app walkthroughs, and UI flows for Remotion videos. Triggers include recording a demo, capturing browser video, screen recording a website, or creating walkthrough footage.
+description: 使用 Playwright 将浏览器交互录制为视频。适用于捕获演示视频、应用导览和 UI 流程，用于 Remotion 视频。触发词包括录制演示、捕获浏览器视频、录制网站画面或创建导览素材。
+
 ---
 
 # Playwright Video Recording

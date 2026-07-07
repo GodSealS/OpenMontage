@@ -1,6 +1,6 @@
 name: framework-smoke
 version: "1.0"
-description: Minimal pipeline manifest used to exercise the Phase 0 framework contracts.
+description: 用于演练 Phase 0 框架合约的最小管道清单。
 category: custom
 stability: beta
 default_checkpoint_policy: guided

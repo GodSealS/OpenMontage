@@ -1,6 +1,8 @@
 ---
+
 name: d3-viz
-description: Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex SVG-based data visualisation that requires fine-grained control over visual elements, transitions, or interactions. Use this for bespoke visualisations beyond standard charting libraries, whether in React, Vue, Svelte, vanilla JavaScript, or any other environment.
+description: 使用 d3.js 创建交互式数据可视化。适用于创建自定义图表、图形、网络图、地理可视化，或任何需要对视觉元素、过渡或交互进行精细控制的复杂 SVG 数据可视化。用于超越标准图表库的定制可视化，无论是在 React、Vue、Svelte、原生 JavaScript 还是其他环境中。
+
 ---
 
 # D3.js Visualisation

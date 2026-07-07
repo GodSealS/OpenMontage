@@ -1,6 +1,8 @@
 ---
+
 name: elevenlabs
-description: Generate AI voiceovers, sound effects, and music using ElevenLabs APIs. Use when creating audio content for videos, podcasts, or games. Triggers include generating voiceovers, narration, dialogue, sound effects from descriptions, background music, soundtrack generation, voice cloning, or any audio synthesis task.
+description: 使用 ElevenLabs API 生成 AI 配音、音效和音乐。适用于为视频、播客或游戏创建音频内容。触发词包括生成配音、旁白、对话、音效描述、背景音乐、配乐生成、声音克隆，或任何音频合成任务。
+
 ---
 
 # ElevenLabs Audio Generation

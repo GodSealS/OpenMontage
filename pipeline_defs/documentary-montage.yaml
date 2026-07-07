@@ -1,12 +1,6 @@
 name: documentary-montage
 version: "1.0"
-description: >
-  Retrieval-first thematic montage pipeline. Builds a semantic corpus of real-world
-  footage from Pexels, Archive.org (Prelinger et al.), NASA, Wikimedia Commons, and
-  Unsplash, then uses CLIP-based
-  retrieval to fill slot descriptions from a thematic brief. The edit arranges clips
-  by narrative beat with music sync and uniform color grade across mixed-era footage.
-  Inspired by Adam Curtis / Chris Marker / Errol Morris tone poems.
+description: 检索优先的主题式蒙太奇管道。从 Pexels、Archive.org（Prelinger 等）、NASA、Wikimedia Commons 和 Unsplash 构建真实素材的语义语料库，然后基于 CLIP 检索从主题简报填充片段描述。编辑按叙事节拍排列片段，混合同步音乐，并在跨时代素材上保持统一的色彩校正。受 Adam Curtis / Chris Marker / Errol Morris 的音诗风格启发。
 category: documentary
 stability: beta
 default_checkpoint_policy: guided

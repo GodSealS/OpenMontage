@@ -1,15 +1,12 @@
 ---
+
 name: vercel-composition-patterns
-description:
-  React composition patterns that scale. Use when refactoring components with
-  boolean prop proliferation, building flexible component libraries, or
-  designing reusable APIs. Triggers on tasks involving compound components,
-  render props, context providers, or component architecture. Includes React 19
-  API changes.
+description: 可扩展的 React 组合模式。适用于重构存在布尔属性膨胀的组件、构建灵活的组件库或设计可复用的 API。触发词涉及复合组件、渲染属性、上下文提供者或组件架构。包括 React 19 API 变更。
 license: MIT
 metadata:
   author: vercel
   version: '1.0.0'
+
 ---
 
 # React Composition Patterns

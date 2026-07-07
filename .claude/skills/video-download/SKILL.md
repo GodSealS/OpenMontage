@@ -1,9 +1,7 @@
 ---
+
 name: video-download
-description: |
-  Download video and audio from YouTube and 1000+ sites using yt-dlp. No API keys needed.
-  Use when: (1) Downloading a video from YouTube or other sites, (2) Extracting audio from a video URL,
-  (3) Downloading subtitles/captions from a video, (4) Getting video metadata without downloading.
+description: 使用 yt-dlp 从 YouTube 及 1000+ 网站下载视频和音频。无需 API 密钥。适用场景：(1) 从 YouTube 或其他网站下载视频，(2) 从视频 URL 提取音频，(3) 从视频下载字幕，(4) 获取视频元数据而无需下载。
 ---
 
 # video-download

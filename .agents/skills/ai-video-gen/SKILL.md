@@ -1,7 +1,7 @@
 ---
+
 name: ai-video-gen
-description: |
-  Generate AI videos from text prompts using multiple provider gateways. Use when: (1) Generating videos from text descriptions, (2) Creating AI-generated video clips for content production, (3) Image-to-video generation with a reference image, (4) Choosing between video generation providers (VEO, Kling, Sora, Runway, Seedance, MiniMax). Supports two gateways: HeyGen API and fal.ai API.
+description: 使用多个提供商网关根据文本提示生成 AI 视频。适用场景：(1) 根据文字描述生成视频，(2) 为内容创作创建 AI 生成的视频片段，(3) 使用参考图片进行图片转视频生成，(4) 在视频生成提供商（VEO、Kling、Sora、Runway、Seedance、MiniMax）之间选择。支持 HeyGen API 和 fal.ai API 两种网关。
 allowed-tools: mcp__heygen__*
 metadata:
   openclaw:
@@ -9,6 +9,7 @@ metadata:
       env_any:
         - HEYGEN_API_KEY
         - FAL_KEY
+
 ---
 
 # Video Generation (Multi-Gateway)

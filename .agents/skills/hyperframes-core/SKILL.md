@@ -1,6 +1,8 @@
 ---
+
 name: hyperframes-core
-description: The HyperFrames composition contract — build one renderable project. Use for composition structure, the `data-*` timing attributes, `class="clip"`, tracks, sub-compositions, variables, framework-owned media playback, deterministic-render rules, and validation. Read before writing composition HTML.
+description: HyperFrames 合成契约 — 构建一个可渲染项目。适用于合成结构、`data-*` 时间属性、`class="clip"`、轨道、子合成、变量、框架自有媒体播放、确定性渲染规则和验证。在编写合成 HTML 之前请先阅读。
+
 ---
 
 # HyperFrames Core

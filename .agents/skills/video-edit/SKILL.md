@@ -1,9 +1,7 @@
 ---
+
 name: video-edit
-description: |
-  Edit videos locally using ffmpeg. Trim, concat, resize, speed, overlay, extract audio, compress, and convert.
-  Use when: (1) Trimming or cutting video segments, (2) Concatenating multiple clips, (3) Resizing video for social platforms,
-  (4) Extracting or replacing audio, (5) Compressing video, (6) Converting video formats, (7) Getting video info.
+description: 使用 ffmpeg 在本地编辑视频。修剪、拼接、调整大小、变速、叠加、提取音频、压缩和转换。适用场景：(1) 修剪或剪切视频片段，(2) 拼接多个片段，(3) 为社交平台调整视频大小，(4) 提取或替换音频，(5) 压缩视频，(6) 转换视频格式，(7) 获取视频信息。
 ---
 
 # Video Edit

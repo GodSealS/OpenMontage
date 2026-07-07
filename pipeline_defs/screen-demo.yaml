@@ -1,13 +1,6 @@
 name: screen-demo
 version: "2.1"
-description: >
-  Screen recording pipeline. Two production modes:
-    1. REAL CAPTURE — takes raw screen capture (app demo, browser walkthrough,
-       coding tutorial) via screen_recorder, cap_recorder, or playwright-recording
-       and produces a polished demo video with callouts, zoom crops, subtitles,
-       and cleaned audio.
-    2. SYNTHETIC (Remotion TerminalScene) — for CLI/terminal/install-flow demos,
-       renders a deterministic terminal animation with typed commands, scrolling
+description: 屏幕录制管道。两种制作模式：(1) 真实录制 — 通过 screen_recorder、cap_recorder 或 playwright-recording 获取原始屏幕捕获（应用演示、浏览器导览、编程教程），生成带标注、缩放裁剪、字幕和清理音频的精美演示视频；(2) 合成（Remotion TerminalScene）— 适用于 CLI/终端/安装流程演示，渲染带打字命令、滚动的确定性终端动画。
        output, floating command pills, and blinking cursor. See
        .agents/skills/synthetic-screen-recording/SKILL.md. Preferred when the
        demo content is predictable (install walkthroughs, make targets, git clone,

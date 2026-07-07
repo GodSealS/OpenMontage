@@ -1,6 +1,8 @@
 ---
+
 name: beautiful-mermaid
-description: Render Mermaid diagrams as SVG and PNG using the Beautiful Mermaid library. Use when the user asks to render a Mermaid diagram.
+description: 使用 Beautiful Mermaid 库将 Mermaid 图表渲染为 SVG 和 PNG 格式。适用于用户要求渲染 Mermaid 图表时。
+
 ---
 
 # Beautiful Mermaid Diagram Rendering

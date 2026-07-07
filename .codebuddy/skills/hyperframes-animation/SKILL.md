@@ -1,6 +1,8 @@
 ---
+
 name: hyperframes-animation
-description: "All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene transitions, broader motion-design techniques, AND the seven runtime adapters (GSAP default, plus Lottie, Three.js, Anime.js, CSS keyframes, Web Animations API, TypeGPU). Use for any motion or animation task: pick 2-4 rules and compose, or load a blueprint, or look up runtime-specific API (e.g. GSAP eases / Lottie player / Three.js mixer). HyperFrames-native: single paused timeline, seek-safe, deterministic."
+description: HyperFrames 的所有动画知识 — 原子运动规则、多阶段场景蓝图、场景过渡、更广泛的动态设计技术，以及七个运行时适配器（默认 GSAP，外加 Lottie、Three.js、Anime.js、CSS 关键帧、Web 动画 API、TypeGPU）。适用于任何运动或动画任务：选择 2-4 条规则组合，或加载蓝图，或查找运行时特定 API（如 GSAP 缓动 / Lottie 播放器 / Three.js 混合器）。HyperFrames 原生特性：单暂停时间线、查找安全、确定性。
+
 ---
 
 # HyperFrames Animation

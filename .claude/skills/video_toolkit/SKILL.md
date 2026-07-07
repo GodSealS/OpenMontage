@@ -1,6 +1,6 @@
 ---
 name: video-toolkit
-description: Create professional videos autonomously using claude-code-video-toolkit — AI voiceovers, image generation, music, talking heads, and Remotion rendering.
+description: 使用 claude-code-video-toolkit 自主创建专业视频 — AI 配音、图像生成、音乐、虚拟形象主持人和 Remotion 渲染。
 metadata:
   openclaw:
     emoji: "🎬"

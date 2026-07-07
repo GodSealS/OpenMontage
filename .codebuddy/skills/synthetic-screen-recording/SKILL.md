@@ -1,7 +1,9 @@
 ---
+
 name: synthetic-screen-recording
-description: Synthetic terminal-style screen recording guidance for Remotion `TerminalScene`.
+description: 适用于 Remotion `TerminalScene` 的合成终端风格屏幕录制指导。
 license: MIT
+
 ---
 
 # Synthetic Screen Recording (Remotion TerminalScene)

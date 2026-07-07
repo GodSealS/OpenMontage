@@ -1,7 +1,7 @@
 ---
+
 name: visual-style
-description: |
-  Create, extract, and apply portable visual design systems via visual-style.md files. Use when: (1) Creating a visual-style.md design system from scratch, (2) Extracting a visual style from a website URL, video, or PDF brand guide, (3) Applying a visual style to HeyGen videos, HTML slides, Figma, or paper.design, (4) Browsing the gallery of pre-built visual styles (Swiss, Saul Bass, Game Boy, etc.), (5) User mentions "visual style", "design system", "brand style", or "style guide", (6) Styling a HeyGen video with a consistent design language.
+description: 通过 visual-style.md 文件创建、提取和应用可移植的视觉设计系统。适用场景：(1) 从头创建 visual-style.md 设计系统，(2) 从网站 URL、视频或 PDF 品牌指南提取视觉风格，(3) 将视觉风格应用于 HeyGen 视频、HTML 幻灯片、Figma 或 paper.design，(4) 浏览预制视觉风格库（Swiss、Saul Bass、Game Boy 等），(5) 用户提到「视觉风格」、「设计系统」、「品牌风格」或「风格指南」，(6) 使用一致的设计语言为 HeyGen 视频设置样式。
 ---
 
 # Visual Style

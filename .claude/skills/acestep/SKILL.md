@@ -1,6 +1,8 @@
 ---
+
 name: acestep
-description: AI music generation with ACE-Step 1.5 — background music, vocal tracks, covers, stem extraction for video production. Use when generating music, soundtracks, jingles, or working with audio stems. Triggers include background music, soundtrack, jingle, music generation, stem extraction, cover, style transfer, or musical composition tasks.
+description: 使用 ACE-Step 1.5 进行 AI 音乐生成 — 背景音乐、人声轨道、翻唱、音轨分离。适用于生成音乐、配乐、铃声，或处理音频音轨。触发词包括背景音乐、配乐、铃声、音乐生成、音轨分离、翻唱、风格迁移或音乐创作任务。
+
 ---
 
 # ACE-Step 1.5 Music Generation

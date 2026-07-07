@@ -1,11 +1,6 @@
 name: animation
 version: "2.0"
-description: >
-  Animation-first pipeline for motion graphics, diagram-led explainers, kinetic typography,
-  math visuals, and stylized illustrative sequences. Features a research-first pre-production
-  phase: the agent researches the topic and animation techniques, proposes concepts with
-  animation mode selection and cost estimates, and gets explicit user approval before any
-  assets are generated.
+description: 动画优先的管道，适用于动态图形、图表主导的讲解、动态排版、数学可视化和风格化插画序列。采用研究优先的预制作阶段：代理研究主题和动画技术，提出概念并提供动画模式选择和成本估算，在生成任何素材前获得用户明确批准。
 category: animation
 stability: production
 default_checkpoint_policy: guided

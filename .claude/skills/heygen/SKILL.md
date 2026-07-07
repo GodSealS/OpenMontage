@@ -1,7 +1,7 @@
 ---
+
 name: heygen
-description: |
-  [DEPRECATED] Use `create-video` for prompt-based video generation or `avatar-video` for precise avatar/scene control. This legacy skill combines both workflows — the newer focused skills provide clearer guidance.
+description: [已弃用] 请使用 `create-video` 进行基于提示的视频生成，或使用 `avatar-video` 进行精确的虚拟形象/场景控制。这个旧版技能合并了两种工作流 — 新版专注型技能提供了更清晰的指导。
 homepage: https://docs.heygen.com/reference/generate-video-agent
 allowed-tools: mcp__heygen__*
 metadata:
@@ -10,6 +10,7 @@ metadata:
       env:
         - HEYGEN_API_KEY
     primaryEnv: HEYGEN_API_KEY
+
 ---
 
 # HeyGen API (Deprecated)

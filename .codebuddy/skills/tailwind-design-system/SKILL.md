@@ -1,6 +1,8 @@
 ---
+
 name: tailwind-design-system
-description: Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.
+description: 使用 Tailwind CSS v4、设计令牌、组件库和响应式模式构建可扩展的设计系统。适用于创建组件库、实现设计系统或标准化 UI 模式。
+
 ---
 
 # Tailwind Design System (v4)

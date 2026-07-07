@@ -1,7 +1,7 @@
 ---
+
 name: create-video
-description: |
-  Create videos from a text prompt using HeyGen's Video Agent. Use when: (1) Creating a video from a description or idea, (2) Generating explainer, demo, or marketing videos from a prompt, (3) Making a video without specifying exact avatars, voices, or scenes, (4) Quick video prototyping or drafts, (5) One-shot prompt-to-video generation, (6) User says "make me a video" or "create a video about X".
+description: 使用 HeyGen 的 Video Agent 根据文字提示创建视频。适用场景：(1) 根据描述或创意创建视频，(2) 根据提示生成讲解、演示或营销视频，(3) 无需指定确切虚拟形象、声音或场景即可制作视频，(4) 快速视频原型或草稿，(5) 一次性提示到视频生成，(6) 用户说「帮我做个视频」或「创建一个关于 X 的视频」。
 homepage: https://docs.heygen.com/reference/generate-video-agent
 allowed-tools: mcp__heygen__*
 metadata:
@@ -10,6 +10,7 @@ metadata:
       env:
         - HEYGEN_API_KEY
     primaryEnv: HEYGEN_API_KEY
+
 ---
 
 # Create Video

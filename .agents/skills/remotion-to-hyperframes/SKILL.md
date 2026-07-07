@@ -1,6 +1,8 @@
 ---
+
 name: remotion-to-hyperframes
-description: 'Port an existing Remotion (React) composition to HyperFrames HTML. Use ONLY when the user explicitly asks to port/convert/migrate/translate a Remotion source. Do NOT use: (a) authoring a new HyperFrames composition; (b) Remotion mentioned in passing; (c) Remotion code shared as reference only; (d) "same video as my Remotion one" without explicit migrate request — treat as fresh build. Doubt → `/general-video`. One-way, Remotion-only: no reverse export (HyperFrames→Remotion or any framework), no non-Remotion source (After Effects, Framer Motion, plain React/CSS) → out of scope, re-create via `/general-video`. Flags unsupported patterns (useState, useEffect, async calculateMetadata, third-party React libs, `@remotion/lambda`) and recommends runtime interop over lossy translation. Unsure whether to port vs. build fresh, or only a passing Remotion mention? → /hyperframes.'
+description: 将现有的 Remotion（React）合成移植到 HyperFrames HTML。仅在用户明确要求移植/转换/迁移/翻译 Remotion 源码时使用。请勿用于：(a) 创作新的 HyperFrames 合成；(b) 顺带提及 Remotion；(c) 仅作为参考分享 Remotion 代码；(d) 「和我 Remotion 视频一样」但没有明确迁移请求 — 视为全新构建。有疑问 → `/general-video`。单向、仅 Remotion：不支持反向导出（HyperFrames→Remotion 或任何框架），不支持非 Remotion 源（After Effects、Framer Motion、纯 React/CSS）→ 超出范围，通过 `/general-video` 重新创建。标记不支持的模式（useState、useEffect、async calculateMetadata、第三方 React 库、`@remotion/lambda`）并推荐运行时互操作而非有损转换。不确定是移植与全新构建，或只是顺带提及 Remotion？→ /hyperframes。
+
 ---
 
 # Remotion to HyperFrames

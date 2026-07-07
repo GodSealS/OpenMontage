@@ -1,7 +1,7 @@
 ---
+
 name: faceswap
-description: |
-  Swap faces in a video using AI via the HeyGen API. Use when: (1) Replacing a face in a video with another face, (2) Face swapping from a source image onto a target video, (3) Creating personalized videos by swapping in a person's face, (4) Working with HeyGen's /v1/workflows/executions endpoint for face swap processing.
+description: 通过 HeyGen API 使用 AI 在视频中换脸。适用场景：(1) 将视频中的人脸替换为另一张脸，(2) 从源图像进行换脸处理到目标视频，(3) 通过换入某人的脸来创建个性化视频，(4) 使用 HeyGen 的 /v1/workflows/executions 端点进行换脸处理。
 allowed-tools: mcp__heygen__*
 metadata:
   openclaw:
@@ -9,6 +9,7 @@ metadata:
       env:
         - HEYGEN_API_KEY
     primaryEnv: HEYGEN_API_KEY
+
 ---
 
 # Face Swap (HeyGen API)

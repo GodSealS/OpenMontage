@@ -1,6 +1,8 @@
 ---
+
 name: hyperframes-media
-description: Audio and media assets for HyperFrames compositions, produced by one shared audio engine (`scripts/audio.mjs`) — multi-provider TTS (HeyGen / ElevenLabs / Kokoro local), background music + sound effects (HeyGen audio-library retrieval by default, with local Lyria / MusicGen BGM generation and a bundled SFX library as the no-credential fallback), Whisper transcription, background removal, and caption authoring. Use for voiceover / TTS, BGM, SFX / sound effects, transcription, captions / subtitles / lyrics / karaoke / per-word styling, voice + provider selection, and music-mood prompting.
+description: HyperFrames 合成的音频和媒体资源，由统一音频引擎（`scripts/audio.mjs`）生成 — 多提供商 TTS（HeyGen / ElevenLabs / Kokoro 本地）、背景音乐 + 音效（默认 HeyGen 音频库检索，含本地 Lyria / MusicGen BGM 生成和无凭证回退的捆绑 SFX 库）、Whisper 转录、背景移除和字幕编写。适用于配音/TTS、BGM、SFX/音效、转录、字幕/歌词/卡拉OK/逐词样式、声音和提供商选择，以及音乐氛围提示。
+
 ---
 
 # HyperFrames Media

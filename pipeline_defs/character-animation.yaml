@@ -1,11 +1,6 @@
 name: character-animation
 version: "0.1"
-description: >
-  Character animation pipeline for local, reusable cartoon characters. It turns
-  a script and scene plan into character specs, rig plans, pose libraries, action
-  timelines, and browser-rendered SVG/Canvas/Remotion/HyperFrames animation.
-  The pipeline is designed for deterministic local motion, not remote video-gen
-  replacement.
+description: 角色动画管道，适用于本地、可复用的卡通角色。将脚本和场景计划转化为角色规格、骨架计划、姿势库、动作时间线和浏览器渲染的 SVG/Canvas/Remotion/HyperFrames 动画。该管道专为确定性本地运动设计，并非远程视频生成的替代品。
 category: animation
 stability: beta
 default_checkpoint_policy: guided

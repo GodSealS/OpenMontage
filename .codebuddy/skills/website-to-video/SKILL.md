@@ -1,6 +1,8 @@
 ---
+
 name: website-to-video
-description: "Capture a general website/URL and turn it into a HyperFrames video (site tour, showcase, or social clip from the site's own visuals). Uses headless Chrome screenshots + brand assets. Use when intent is general — portfolio/blog/landing-page showcase or social clip from the site. NOT for: product/SaaS launch or promo (→ /product-launch-video, even from a URL); topic explainer with no site (→ /faceless-explainer); GitHub PR (→ /pr-to-video); adding captions to existing video (→ /embedded-captions); short unnarrated page-highlight motion graphic (→ /motion-graphics). Unclear launch-vs-general-site? Ask one question or start at /hyperframes."
+description: 捕获通用网站/URL 并将其转换为 HyperFrames 视频（来自网站自身视觉效果的站点导览、展示或社交片段）。使用无头 Chrome 截图 + 品牌素材。适用于意图为通用场景 — 作品集/博客/落地页展示或来自网站的社交片段。不适用于：产品/SaaS 发布或推广（→ /product-launch-video，即使来自 URL）；没有网站的主题讲解（→ /faceless-explainer）；GitHub PR（→ /pr-to-video）；为现有视频添加字幕（→ /embedded-captions）；短时无声页面高亮动态图形（→ /motion-graphics）。不确定是发布还是通用网站？问一个问题或从 /hyperframes 开始。
+
 ---
 
 > **media-use**: Before sourcing audio/images, call `/media-use` to resolve BGM/SFX/images from the HeyGen catalog. Run `--adopt` first to register existing assets. See `/media-use` skill.

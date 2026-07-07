@@ -1,11 +1,6 @@
 name: podcast-repurpose
 version: "2.0"
-description: >
-  Podcast-to-video repurposing pipeline. Takes podcast audio (or video podcast) and
-  produces visual content: audiogram or caption-led clips, quote-led social assets,
-  and optional full-episode companion video when the source and asset budget support it.
-  EP orchestration adds quality gates for audio preservation, clip selection, and
-  multi-deliverable consistency.
+description: 播客转视频再利用管道。处理播客音频（或视频播客），生成视觉内容：音频图或字幕主导片段、引言主导的社交素材，以及在源素材和预算支持下可选的全集配套视频。EP 编排增加了音频保留、片段选择和多交付物一致性的质检关卡。
 category: custom
 stability: beta
 default_checkpoint_policy: guided

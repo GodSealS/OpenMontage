@@ -1,9 +1,11 @@
 ---
+
 name: sound-effects
-description: Generate sound effects from text descriptions using ElevenLabs. Use when creating sound effects, generating audio textures, producing ambient sounds, cinematic impacts, UI sounds, or any audio that isn't speech. Supports looping, duration control, and prompt influence tuning.
+description: 使用 ElevenLabs 从文字描述生成音效。适用于创建音效、生成音频纹理、制作环境音、电影级冲击声、UI 音效，或任何非语音的音频。支持循环、持续时间控制和提示影响调节。
 license: MIT
 compatibility: Requires internet access and an ElevenLabs API key (ELEVENLABS_API_KEY).
 metadata: {"openclaw": {"requires": {"env": ["ELEVENLABS_API_KEY"]}, "primaryEnv": "ELEVENLABS_API_KEY"}}
+
 ---
 
 # ElevenLabs Sound Effects

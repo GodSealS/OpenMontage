@@ -1,7 +1,9 @@
 ---
+
 name: svg-character-animation
-description: Animate SVG character rigs with GSAP, CSS transforms, Remotion frame control, and HyperFrames-compatible browser previews.
+description: 使用 GSAP、CSS 变换、Remotion 帧控制和 HyperFrames 兼容浏览器预览来动画化 SVG 角色骨架。
 license: MIT
+
 ---
 
 # SVG Character Animation

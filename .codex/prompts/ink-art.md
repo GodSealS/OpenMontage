@@ -1,5 +1,5 @@
 ---
-description: Hand-drawn ink doodle animation — a character that draws itself then walks/dances/waves, or a contraption explainer (vector → HyperFrames MP4).
+description: 手绘墨水涂鸦动画 — 角色自己画出自己然后走路/跳舞/挥手，或冷面机械装置说明动画（矢量 → HyperFrames MP4）。
 argument-hint: [what to animate]
 ---
 

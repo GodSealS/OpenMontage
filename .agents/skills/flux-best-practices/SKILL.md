@@ -1,10 +1,12 @@
 ---
+
 name: flux-best-practices
-description: Comprehensive guide for BFL FLUX image generation models. Covers prompting, T2I, I2I, structured JSON, hex colors, typography, multi-reference editing, and model-specific best practices for FLUX.2 and FLUX.1 families.
+description: BFL FLUX 图像生成模型综合指南。涵盖提示编写、T2I、I2I、结构化 JSON、十六进制颜色、排版、多参考编辑，以及 FLUX.2 和 FLUX.1 系列的模型特定最佳实践。
 metadata:
   author: Black Forest Labs
   version: "1.0.0"
   tags: flux, bfl, image-generation, prompting, t2i, i2i
+
 ---
 
 # FLUX Best Practices

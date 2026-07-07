@@ -1,10 +1,12 @@
 ---
+
 name: grok-media
-description: xAI Grok image and video generation guide covering authentication, endpoints, prompt structure, image editing, reference-image video, and async polling.
+description: xAI Grok 图像和视频生成指南，涵盖认证、端点、提示结构、图像编辑、参考图视频和异步轮询。
 metadata:
   author: OpenMontage
   version: "1.0.0"
   tags: xai, grok, image-generation, video-generation, media
+
 ---
 
 # Grok Media

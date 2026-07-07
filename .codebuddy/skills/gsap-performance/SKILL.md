@@ -1,7 +1,9 @@
 ---
+
 name: gsap-performance
-description: Official GSAP skill for performance — prefer transforms, avoid layout thrashing, will-change, batching. Use when optimizing GSAP animations, reducing jank, or when the user asks about animation performance, FPS, or smooth 60fps.
+description: GSAP 性能优化官方技能 — 优先使用变换、避免布局抖动、will-change、批处理。适用于优化 GSAP 动画、减少卡顿，或用户询问动画性能、FPS 或流畅 60fps 时。
 license: MIT
+
 ---
 
 # GSAP Performance

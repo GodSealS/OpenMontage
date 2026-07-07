@@ -1,6 +1,8 @@
 ---
+
 name: remotion
-description: Toolkit-specific Remotion patterns — custom transitions, shared components, and project conventions. For core Remotion framework knowledge (hooks, animations, rendering, etc.), see the `remotion-official` skill.
+description: 工具包特定的 Remotion 模式 — 自定义过渡、共享组件和项目约定。核心 Remotion 框架知识（钩子、动画、渲染等）请参见 `remotion-official` 技能。
+
 ---
 
 # Remotion — Toolkit Extensions

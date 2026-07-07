@@ -1,9 +1,6 @@
 name: animated-explainer
 version: "2.0"
-description: >
-  Generated explainer video from topic/idea - fully AI-produced with narration, visuals, and music.
-  Features a research-first pre-production phase: the agent researches the topic, proposes concepts
-  with cost estimates, and gets explicit user approval before any assets are generated.
+description: 根据主题/创意生成讲解视频 — 完全由 AI 制作，包含旁白、画面和音乐。采用研究优先的预制作阶段：代理先研究主题、提出概念和成本估算，在生成任何素材前获得用户明确批准。
 category: generated
 stability: production
 

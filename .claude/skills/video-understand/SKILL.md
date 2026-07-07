@@ -1,9 +1,7 @@
 ---
+
 name: video-understand
-description: |
-  Understand video content locally using ffmpeg frame extraction and Whisper transcription. No API keys needed.
-  Use when: (1) Understanding what a video contains, (2) Transcribing video audio locally,
-  (3) Extracting key frames for visual analysis, (4) Getting video content without API keys.
+description: 使用 ffmpeg 帧提取和 Whisper 转录在本地理解视频内容。无需 API 密钥。适用场景：(1) 理解视频包含的内容，(2) 在本地转录视频音频，(3) 提取关键帧进行视觉分析，(4) 无需 API 密钥获取视频内容。
 ---
 
 # video-understand

@@ -1,21 +1,12 @@
 ---
+
 name: motion-graphics
-description: >
-  Use when the user wants a short, design-led motion graphic where motion is the
-  message: kinetic typography, stat or number count-up, chart/data-viz hit,
-  logo sting, brand lockup, lower-third, callout, social overlay, animated
-  headline/tweet/news item, motion poster, or quick captured-page highlight.
-  Usually under 10s and up to ~30s, with no narration arc, voice-over, or
-  live-action subject. Can render to MP4 or transparent overlay. Not for longer,
-  multi-scene, narrated, or brand-reel pieces (use general-video), narrated
-  website videos (website-to-video), topic explainers
-  (faceless-explainer), product promos (product-launch-video), PR videos
-  (pr-to-video), or captions on existing footage (embedded-captions). When unsure whether it's a
-  quick motion-first piece or a longer / narrated treatment, see /hyperframes.
+description: 适用于用户想要短小的、以设计为主导的动态图形，其中运动本身就是信息：动态排版、统计数字或数值滚动、图表/数据可视化冲击、Logo 闪亮登场、品牌锁标、下方三分之一、标注、社交叠加层、动画标题/推文/新闻、动态海报，或快速捕获页面高亮。通常在 10 秒以下，最长约 30 秒，没有旁白弧线、配音或真人拍摄对象。可渲染为 MP4 或透明叠加层。不适用于更长、多场景、有旁白或品牌宣传片（使用通用视频）、有旁白的网站视频（website-to-video）、主题讲解（faceless-explainer）、产品宣传（product-launch-video）、PR 视频（pr-to-video）或在现有素材上加字幕（embedded-captions）。不确定是快速运动优先片段还是较长的/有旁白的内容时，请查看 /hyperframes。
 metadata:
   {
     "tags": "orchestrator, motion-graphics, kinetic-type, data-viz, logo-reveal, lower-thirds, news, tweet, webpage, asset-fusion, short-form, overlay, no-narration",
   }
+
 ---
 
 # motion-graphics — dispatch entry

@@ -1,6 +1,8 @@
 ---
+
 name: hyperframes-registry
-description: Install and wire registry blocks and components into HyperFrames compositions. Use when running hyperframes add, installing a block or component, wiring an installed item into index.html, or working with hyperframes.json. Covers the add command, install locations, block sub-composition wiring, component snippet merging, registry discovery, and authoring a new block or component to contribute upstream (idea → scaffold → validate → PR).
+description: 在 HyperFrames 合成中安装和接入注册表块与组件。适用于运行 hyperframes add、安装块或组件、将已安装项接入 index.html，或处理 hyperframes.json。涵盖 add 命令、安装位置、块子合成接入、组件片段合并、注册表发现，以及编写新块或组件以向上游贡献（创意 → 脚手架 → 验证 → PR）。
+
 ---
 
 # HyperFrames Registry

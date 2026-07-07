@@ -1,6 +1,8 @@
 ---
+
 name: music-to-video
-description: "Use when the user has a music track (an audio file, or a video to pull audio from) and wants a beat-synced HyperFrames video, calm to hard-hitting. The music drives everything: one analyzer reads it once, the orchestrator lays out the frames and fills a per-frame plan, and one sub-agent builds each frame. Typography and templates are the floor — a complete video needs zero assets — but any images or videos the user supplies are cut into the frames on the same beat grid (beat-cut / ken-burns). The genre (lyric video, slideshow, kinetic promo) falls out of the per-frame choices; the pipeline never branches on it."
+description: 适用于用户有一段音乐轨（音频文件，或需要提取音频的视频）并想要一个节拍同步的 HyperFrames 视频，从平静到强烈均可。音乐驱动一切：一个分析器只读取一次，编排器布局帧并填充逐帧计划，一个子代理构建每个帧。排版和模板是基础 — 完整视频无需任何素材 — 但用户提供的任何图片或视频都会按同一节奏网格切入帧（节拍切换/肯伯恩斯风格）。类型（歌词视频、幻灯片、动态宣传片）由逐帧选择决定；管道永远不会在其上分支。
+
 ---
 
 # music-to-video — one music-grounded, beat-synced video workflow

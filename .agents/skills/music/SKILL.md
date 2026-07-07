@@ -1,9 +1,11 @@
 ---
+
 name: music
-description: Generate music using ElevenLabs Music API. Use when creating instrumental tracks, songs with lyrics, background music, jingles, or any AI-generated music composition. Supports prompt-based generation, composition plans for granular control, and detailed output with metadata.
+description: 使用 ElevenLabs Music API 生成音乐。适用于创建器乐、带歌词歌曲、背景音乐、铃声，或任何 AI 生成的音乐作品。支持基于提示的生成、用于精细控制的创作计划，以及带元数据的详细输出。
 license: MIT
 compatibility: Requires internet access and an ElevenLabs API key (ELEVENLABS_API_KEY).
 metadata: {"openclaw": {"requires": {"env": ["ELEVENLABS_API_KEY"]}, "primaryEnv": "ELEVENLABS_API_KEY"}}
+
 ---
 
 # ElevenLabs Music Generation

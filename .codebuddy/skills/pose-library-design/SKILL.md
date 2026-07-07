@@ -1,7 +1,9 @@
 ---
+
 name: pose-library-design
-description: Design reusable 2D character pose libraries, action cycles, and expression states for data-driven animation.
+description: 为数据驱动动画设计可复用的 2D 角色姿势库、动作循环和表情状态。
 license: MIT
+
 ---
 
 # Pose Library Design

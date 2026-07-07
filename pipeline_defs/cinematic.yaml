@@ -1,10 +1,6 @@
 name: cinematic
 version: "2.0"
-description: >
-  Mood-led cinematic pipeline for trailers, brand films, montages, and short-form dramatic edits.
-  Works best with supplied footage, stills, or source media, and can optionally use generated
-  support visuals for gap filling or concept-led inserts. EP orchestration adds quality gates
-  for emotional pacing, color consistency, and audio dynamics.
+description: 情绪驱动的电影级管道，适用于预告片、品牌影片、蒙太奇和短篇戏剧剪辑。最适合配合提供的素材、静帧或源媒体使用，可选使用生成的辅助画面填补空白或概念插入。EP 编排增加了情感节奏、色彩一致性和音频动感的质检关卡。
 category: cinematic
 stability: production
 default_checkpoint_policy: guided

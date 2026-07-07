@@ -1,10 +1,12 @@
 ---
+
 name: bfl-api
-description: BFL FLUX API integration guide covering endpoints, async polling patterns, rate limiting, error handling, webhooks, and regional endpoints with Python and TypeScript code examples.
+description: BFL FLUX API 集成指南，涵盖端点、异步轮询模式、速率限制、错误处理、Webhooks 和区域端点，含 Python 和 TypeScript 代码示例。
 metadata:
   author: Black Forest Labs
   version: "1.0.0"
   tags: flux, bfl, api, integration, webhooks, rate-limiting
+
 ---
 
 # BFL API Integration Guide

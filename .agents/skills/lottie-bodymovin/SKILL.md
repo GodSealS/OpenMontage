@@ -1,6 +1,8 @@
 ---
+
 name: lottie-bodymovin
-description: Use when implementing Disney's 12 animation principles with Lottie animations exported from After Effects
+description: 适用于使用从 After Effects 导出的 Lottie 动画实现迪士尼 12 项动画原则。
+
 ---
 
 # Lottie Animation Principles

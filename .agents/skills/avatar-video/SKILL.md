@@ -1,7 +1,7 @@
 ---
+
 name: avatar-video
-description: |
-  Create AI avatar videos with precise control over avatars, voices, scripts, scenes, and backgrounds using HeyGen's v2 API. Use when: (1) Choosing a specific avatar and voice for a video, (2) Writing exact scripts for an avatar to speak, (3) Building multi-scene videos with different backgrounds per scene, (4) Creating transparent WebM videos for compositing, (5) Using talking photos as video presenters, (6) Integrating HeyGen avatars with Remotion, (7) Batch video generation with exact specs, (8) Brand-consistent production videos with precise control.
+description: 使用 HeyGen v2 API 精确控制虚拟形象、声音、脚本、场景和背景来创建 AI 虚拟形象视频。适用场景：(1) 为视频选择特定虚拟形象和声音，(2) 为虚拟形象编写精确的台词脚本，(3) 构建每个场景不同背景的多场景视频，(4) 创建用于合成的透明 WebM 视频，(5) 使用说话照片作为视频主持人，(6) 将 HeyGen 虚拟形象集成到 Remotion，(7) 按精确规格批量生成视频，(8) 创建品牌一致的制作级视频。
 homepage: https://docs.heygen.com/reference/create-a-video
 allowed-tools: mcp__heygen__*
 metadata:
@@ -10,6 +10,7 @@ metadata:
       env:
         - HEYGEN_API_KEY
     primaryEnv: HEYGEN_API_KEY
+
 ---
 
 # Avatar Video

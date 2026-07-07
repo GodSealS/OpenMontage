@@ -1,6 +1,8 @@
 ---
+
 name: ffmpeg
-description: Video and audio processing with FFmpeg. Use for format conversion, resizing, compression, audio extraction, and preparing assets for Remotion. Triggers include converting GIF to MP4, resizing video, extracting audio, compressing files, or any media transformation task.
+description: 使用 FFmpeg 进行视频和音频处理。适用于格式转换、缩放、压缩、音频提取和为 Remotion 准备素材。触发词包括将 GIF 转换为 MP4、调整视频大小、提取音频、压缩文件，或任何媒体转换任务。
+
 ---
 
 # FFmpeg for Video Production

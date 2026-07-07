@@ -1,9 +1,6 @@
 name: talking-head
 version: "2.0"
-description: >
-  End-to-end talking-head video pipeline. Takes raw footage of a person speaking,
-  transcribes it, makes edit decisions, generates subtitles, mixes audio,
-  and composes the final output.
+description: 端到端演讲人头视频管道。摄录真人说话素材，进行转录、编辑决策、生成字幕、混合音频，并合成最终输出。
 category: talking_head
 stability: beta
 default_checkpoint_policy: guided

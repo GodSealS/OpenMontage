@@ -1,10 +1,6 @@
 name: hybrid
 version: "2.0"
-description: >
-  Hybrid pipeline for videos that combine source footage with designed or generated support
-  assets: interviews plus diagrams, product footage plus overlays, screen recordings plus
-  companion graphics, or montage edits with support inserts. EP orchestration adds quality
-  gates for source/support balance, overlay density, and cross-medium coherence.
+description: 混合管道，适用于结合源素材与设计或生成的辅助资产的视频：访谈加图表、产品画面加叠加层、屏幕录制加配套图形，或带辅助插入的蒙太奇剪辑。EP 编排增加了源素材/辅助资产平衡、叠加密度和跨介质连贯性的质检关卡。
 category: hybrid
 stability: production
 default_checkpoint_policy: guided

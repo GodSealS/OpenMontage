@@ -1,6 +1,8 @@
 ---
+
 name: framer-motion
-description: Use when implementing Disney's 12 animation principles with Framer Motion in React applications
+description: 适用于在 React 应用中使用 Framer Motion 实现迪士尼 12 项动画原则。
+
 ---
 
 # Framer Motion Animation Principles

@@ -1,8 +1,10 @@
 ---
+
 name: setup-api-key
-description: Guides users through setting up an ElevenLabs API key for ElevenLabs MCP tools. Use when the user needs to configure an ElevenLabs API key, when ElevenLabs tools fail due to missing API key, or when the user mentions needing access to ElevenLabs. First checks whether ELEVENLABS_API_KEY is already configured and valid, and only runs full setup when needed.
+description: 引导用户设置 ElevenLabs API 密钥，用于 ElevenLabs MCP 工具。适用于用户需要配置 ElevenLabs API 密钥、ElevenLabs 工具因缺少 API 密钥而失败，或用户提到需要访问 ElevenLabs 时。首先检查 ELEVENLABS_API_KEY 是否已配置且有效，仅在需要时运行完整设置流程。
 license: MIT
 compatibility: Requires internet access to elevenlabs.io and api.elevenlabs.io.
+
 ---
 
 # ElevenLabs API Key Setup
